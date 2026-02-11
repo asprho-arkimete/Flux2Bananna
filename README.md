@@ -1,1 +1,2 @@
 edita immagini come in Nano bananna con flux 2, low vram quantitizato con il modello klein-9B; free ed very speed con solo 8steps, include la possibilita di inserire modelli castomizzati e  2 lora aggiuntivi
+
